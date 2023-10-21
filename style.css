@@ -1,8 +1,8 @@
-.bor{
+.border{
     border-bottom: 2px solid;
     width: 800px;
  }
- .bor2{
+ .border2{
      color: aliceblue;
      border: 5px solid rgb(172, 122, 15);
      border-radius: 100px;
@@ -10,7 +10,7 @@
      width: 800px;
      padding: 10px;
  }
-.bor3{
+.border3{
     color: rgba(240, 254, 255, 0.651);
     border: 5px solid rgb(172, 122, 15);
     border-radius: 100px;
